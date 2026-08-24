@@ -1,0 +1,16 @@
+{
+  "task_name": "lost_item_recovery",
+  "difficulty": "realistic",
+  "app": [
+    "Messages",
+    "Gallery",
+    "Files",
+    "Calendar",
+    "Mattermost",
+    "Contacts"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

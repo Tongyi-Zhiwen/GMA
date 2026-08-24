@@ -1,0 +1,16 @@
+{
+  "task_name": "tablet_purchase_xiaoshiliu_research",
+  "difficulty": "realistic",
+  "app": [
+    "Mail",
+    "XiaoShiLiu",
+    "Mall",
+    "Contacts",
+    "Messages"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

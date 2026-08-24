@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_no_yalta_flight_answer",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

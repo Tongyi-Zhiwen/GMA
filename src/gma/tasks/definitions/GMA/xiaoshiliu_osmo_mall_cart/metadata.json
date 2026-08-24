@@ -1,0 +1,11 @@
+{
+  "task_name": "xiaoshiliu_osmo_mall_cart",
+  "difficulty": "cross-application",
+  "app": [
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

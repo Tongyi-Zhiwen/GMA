@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_create_task_channel",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

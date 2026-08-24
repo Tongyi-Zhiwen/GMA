@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_replace_five_alarms_saturday_cycle",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

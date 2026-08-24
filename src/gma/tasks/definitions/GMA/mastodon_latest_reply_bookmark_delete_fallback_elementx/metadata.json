@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_latest_reply_bookmark_delete_fallback_elementx",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon",
+    "ElementX"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

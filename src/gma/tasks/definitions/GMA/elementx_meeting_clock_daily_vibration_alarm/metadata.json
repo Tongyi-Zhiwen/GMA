@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_meeting_clock_daily_vibration_alarm",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

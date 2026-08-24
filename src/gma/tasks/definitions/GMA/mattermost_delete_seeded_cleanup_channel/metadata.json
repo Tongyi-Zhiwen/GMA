@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_delete_seeded_cleanup_channel",
+  "difficulty": "compositional",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

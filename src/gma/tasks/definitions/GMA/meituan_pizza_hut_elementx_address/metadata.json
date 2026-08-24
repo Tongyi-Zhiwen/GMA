@@ -1,0 +1,12 @@
+{
+  "task_name": "meituan_pizza_hut_elementx_address",
+  "difficulty": "cross-application",
+  "app": [
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "mall_buy_cheapest_lenovo_laptop",
+  "difficulty": "compositional",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

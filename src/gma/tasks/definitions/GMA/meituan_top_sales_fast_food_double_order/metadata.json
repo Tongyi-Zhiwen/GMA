@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_top_sales_fast_food_double_order",
+  "difficulty": "cross-application",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

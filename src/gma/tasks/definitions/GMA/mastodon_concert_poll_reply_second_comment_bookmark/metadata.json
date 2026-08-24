@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_concert_poll_reply_second_comment_bookmark",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Conditional Tasks"
+  ]
+}

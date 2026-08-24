@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_add_default_san_francisco_update_chicago_address",
+  "difficulty": "compositional",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

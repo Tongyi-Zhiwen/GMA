@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_enable_earliest_off_morning_alarm",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

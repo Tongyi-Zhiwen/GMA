@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_first_three_poll_results_create_duck_poll",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

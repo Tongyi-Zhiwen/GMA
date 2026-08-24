@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_send_invitation_attachment_reply_latest",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

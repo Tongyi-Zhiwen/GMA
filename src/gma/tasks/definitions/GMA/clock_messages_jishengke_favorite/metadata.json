@@ -1,0 +1,12 @@
+{
+  "task_name": "clock_messages_jishengke_favorite",
+  "difficulty": "cross-application",
+  "app": [
+    "Clock",
+    "Messages",
+    "Meituan"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

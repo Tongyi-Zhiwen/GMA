@@ -1,0 +1,17 @@
+{
+  "task_name": "social_event_recap_playlist",
+  "difficulty": "realistic",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "Tempus",
+    "Gallery",
+    "ElementX",
+    "Messages"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

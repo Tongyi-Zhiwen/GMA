@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_disable_all_alarms",
+  "difficulty": "atomic",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

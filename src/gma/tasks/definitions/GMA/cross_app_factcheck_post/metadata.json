@@ -1,0 +1,15 @@
+{
+  "task_name": "cross_app_factcheck_post",
+  "difficulty": "realistic",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "Mail",
+    "Files",
+    "Gallery",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

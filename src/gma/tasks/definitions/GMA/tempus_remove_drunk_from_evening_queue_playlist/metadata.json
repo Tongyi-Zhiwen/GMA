@@ -1,0 +1,8 @@
+{
+  "task_name": "tempus_remove_drunk_from_evening_queue_playlist",
+  "difficulty": "atomic",
+  "app": [
+    "Tempus"
+  ],
+  "category": []
+}

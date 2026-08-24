@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_send_parent_teacher_and_payment_slip",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

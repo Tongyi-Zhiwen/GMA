@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_hmdp_elementx_food_poll_plan",
+  "difficulty": "cross-application",
+  "app": [
+    "Mastodon",
+    "HMDP",
+    "ElementX"
+  ],
+  "category": []
+}

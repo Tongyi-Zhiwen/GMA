@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_create_make_friends_channel",
+  "difficulty": "compositional",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

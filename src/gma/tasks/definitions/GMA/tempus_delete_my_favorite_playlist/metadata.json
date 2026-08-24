@@ -1,0 +1,8 @@
+{
+  "task_name": "tempus_delete_my_favorite_playlist",
+  "difficulty": "atomic",
+  "app": [
+    "Tempus"
+  ],
+  "category": []
+}

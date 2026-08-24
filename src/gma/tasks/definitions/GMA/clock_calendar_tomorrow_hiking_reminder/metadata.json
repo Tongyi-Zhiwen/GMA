@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_calendar_tomorrow_hiking_reminder",
+  "difficulty": "compositional",
+  "app": [
+    "Clock",
+    "Calendar"
+  ],
+  "category": []
+}

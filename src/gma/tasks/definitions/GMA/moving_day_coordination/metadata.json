@@ -1,0 +1,17 @@
+{
+  "task_name": "moving_day_coordination",
+  "difficulty": "realistic",
+  "app": [
+    "Mail",
+    "Messages",
+    "Contacts",
+    "Mall",
+    "Calendar",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

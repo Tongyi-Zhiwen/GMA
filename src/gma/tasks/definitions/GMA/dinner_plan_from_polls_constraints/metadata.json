@@ -1,0 +1,14 @@
+{
+  "task_name": "dinner_plan_from_polls_constraints",
+  "difficulty": "realistic",
+  "app": [
+    "ElementX",
+    "Mail",
+    "Calendar",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

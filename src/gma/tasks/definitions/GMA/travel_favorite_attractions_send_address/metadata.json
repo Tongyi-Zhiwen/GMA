@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_favorite_attractions_send_address",
+  "difficulty": "compositional",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

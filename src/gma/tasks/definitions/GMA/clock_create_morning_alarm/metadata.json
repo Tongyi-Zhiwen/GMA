@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_create_morning_alarm",
+  "difficulty": "atomic",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "mail_send_callback_request",
+  "difficulty": "atomic",
+  "app": [
+    "Mail"
+  ],
+  "category": []
+}

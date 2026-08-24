@@ -1,0 +1,8 @@
+{
+  "task_name": "elementx_pin_received_message_from_ethan",
+  "difficulty": "atomic",
+  "app": [
+    "ElementX"
+  ],
+  "category": []
+}

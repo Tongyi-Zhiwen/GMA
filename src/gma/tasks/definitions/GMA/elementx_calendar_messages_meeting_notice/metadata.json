@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_calendar_messages_meeting_notice",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "Calendar",
+    "Messages"
+  ],
+  "category": []
+}

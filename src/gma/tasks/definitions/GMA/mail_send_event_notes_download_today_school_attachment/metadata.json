@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_send_event_notes_download_today_school_attachment",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

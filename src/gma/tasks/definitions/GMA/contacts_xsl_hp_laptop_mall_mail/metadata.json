@@ -1,0 +1,14 @@
+{
+  "task_name": "contacts_xsl_hp_laptop_mall_mail",
+  "difficulty": "cross-application",
+  "app": [
+    "Contacts",
+    "XiaoShiLiu",
+    "Mall",
+    "Mail"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_favorite_hotels_book_luxury_lion",
+  "difficulty": "compositional",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

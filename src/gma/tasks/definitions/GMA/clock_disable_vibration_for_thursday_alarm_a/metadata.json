@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_disable_vibration_for_thursday_alarm_a",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_xsl_fitness_review_repost",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "XiaoShiLiu",
+    "Gallery"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_delete_mike_delivery_address",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

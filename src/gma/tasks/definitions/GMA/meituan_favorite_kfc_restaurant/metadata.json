@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_favorite_kfc_restaurant",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

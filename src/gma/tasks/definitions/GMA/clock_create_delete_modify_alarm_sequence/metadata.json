@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_create_delete_modify_alarm_sequence",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_mail_comic_expo_update",
+  "difficulty": "cross-application",
+  "app": [
+    "Calendar",
+    "Mail"
+  ],
+  "category": []
+}

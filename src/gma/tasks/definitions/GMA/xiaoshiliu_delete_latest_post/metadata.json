@@ -1,0 +1,8 @@
+{
+  "task_name": "xiaoshiliu_delete_latest_post",
+  "difficulty": "atomic",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_contacts_update_from_unread_phone",
+  "difficulty": "compositional",
+  "app": [
+    "Messages",
+    "Contacts"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

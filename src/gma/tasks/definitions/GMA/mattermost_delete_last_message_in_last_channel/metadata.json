@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_delete_last_message_in_last_channel",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

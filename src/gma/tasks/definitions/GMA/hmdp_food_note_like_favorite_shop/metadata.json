@@ -1,0 +1,9 @@
+{
+  "task_name": "hmdp_food_note_like_favorite_shop",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "Files"
+  ],
+  "category": []
+}

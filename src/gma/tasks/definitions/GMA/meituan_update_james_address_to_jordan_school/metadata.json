@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_update_james_address_to_jordan_school",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

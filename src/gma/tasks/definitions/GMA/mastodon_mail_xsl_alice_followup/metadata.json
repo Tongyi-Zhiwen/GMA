@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_mail_xsl_alice_followup",
+  "difficulty": "cross-application",
+  "app": [
+    "Mastodon",
+    "Mail",
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "messages_draft_sms_unsupported_answer",
+  "difficulty": "cross-application",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

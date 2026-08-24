@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_kfc_order_favorite_toggle",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

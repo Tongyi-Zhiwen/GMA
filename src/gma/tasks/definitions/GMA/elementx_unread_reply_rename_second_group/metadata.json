@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_unread_reply_rename_second_group",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

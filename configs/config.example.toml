@@ -1,0 +1,26 @@
+# Copy this file to configs/config.toml and replace the placeholders.
+# configs/config.toml is ignored by Git so credentials are not committed.
+
+[agent]
+profile = ""
+type = "qwen_agent"
+model = "your-model-name"
+base_url = "https://your-openai-compatible-endpoint.example/v1"
+api_key = "your-api-key"
+
+[user_simulator]
+# Empty values inherit the selected task-agent model and credentials.
+model = ""
+base_url = ""
+api_key = ""
+temperature = 0.2
+max_tokens = 1024
+timeout = 60.0
+retries = 2
+
+[runtime]
+step_wait_time = 1.0
+max_steps = 150
+
+[evaluation]
+log_dir = "logs"

@@ -1,0 +1,8 @@
+{
+  "task_name": "messages_mark_unread_threads_read",
+  "difficulty": "atomic",
+  "app": [
+    "Messages"
+  ],
+  "category": []
+}

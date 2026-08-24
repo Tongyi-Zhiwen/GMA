@@ -1,0 +1,18 @@
+{
+  "task_name": "weekend_city_itinerary",
+  "difficulty": "realistic",
+  "app": [
+    "Travel",
+    "HMDP",
+    "Mail",
+    "Meituan",
+    "Calendar",
+    "ElementX",
+    "Messages"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

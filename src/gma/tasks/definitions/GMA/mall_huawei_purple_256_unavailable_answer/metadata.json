@@ -1,0 +1,10 @@
+{
+  "task_name": "mall_huawei_purple_256_unavailable_answer",
+  "difficulty": "compositional",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

@@ -1,0 +1,3 @@
+Release note: mobile checkout rollback deployed successfully.
+Tentative engineering log-review sync for release validation: October 4, 2026 at 10:30 AM.
+This release note is engineering-only and has no client-success recipient, required email subject, or review-room criteria.

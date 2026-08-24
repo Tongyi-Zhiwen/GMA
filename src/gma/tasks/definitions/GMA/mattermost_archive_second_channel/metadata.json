@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_archive_second_channel",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

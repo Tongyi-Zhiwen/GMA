@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_add_alan_office_delivery_address",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

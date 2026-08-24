@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_unfavorite_wallace_restaurant",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

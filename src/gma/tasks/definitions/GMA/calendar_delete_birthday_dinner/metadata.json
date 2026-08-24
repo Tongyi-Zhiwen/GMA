@@ -1,0 +1,8 @@
+{
+  "task_name": "calendar_delete_birthday_dinner",
+  "difficulty": "atomic",
+  "app": [
+    "Calendar"
+  ],
+  "category": []
+}

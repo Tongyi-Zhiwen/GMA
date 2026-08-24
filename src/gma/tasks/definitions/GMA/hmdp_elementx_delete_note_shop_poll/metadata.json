@@ -1,0 +1,9 @@
+{
+  "task_name": "hmdp_elementx_delete_note_shop_poll",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "ElementX"
+  ],
+  "category": []
+}

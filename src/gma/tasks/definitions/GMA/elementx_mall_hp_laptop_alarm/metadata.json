@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_mall_hp_laptop_alarm",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "Mall",
+    "Clock"
+  ],
+  "category": []
+}

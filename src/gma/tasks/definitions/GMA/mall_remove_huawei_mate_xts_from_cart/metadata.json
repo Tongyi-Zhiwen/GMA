@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_remove_huawei_mate_xts_from_cart",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

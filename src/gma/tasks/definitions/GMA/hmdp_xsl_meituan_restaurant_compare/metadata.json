@@ -1,0 +1,14 @@
+{
+  "task_name": "hmdp_xsl_meituan_restaurant_compare",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "XiaoShiLiu",
+    "Meituan",
+    "Gallery"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Conditional Tasks"
+  ]
+}

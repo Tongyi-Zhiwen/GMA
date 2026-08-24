@@ -1,0 +1,17 @@
+{
+  "task_name": "home_repair_coordination",
+  "difficulty": "realistic",
+  "app": [
+    "Messages",
+    "Mail",
+    "Files",
+    "Gallery",
+    "Calendar",
+    "Clock",
+    "Contacts"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

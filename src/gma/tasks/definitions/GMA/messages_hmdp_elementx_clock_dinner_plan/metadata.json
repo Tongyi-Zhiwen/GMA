@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_hmdp_elementx_clock_dinner_plan",
+  "difficulty": "cross-application",
+  "app": [
+    "Messages",
+    "HMDP",
+    "ElementX",
+    "Clock"
+  ],
+  "category": []
+}

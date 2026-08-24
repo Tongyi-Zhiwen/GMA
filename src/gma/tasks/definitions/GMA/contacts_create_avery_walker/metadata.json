@@ -1,0 +1,8 @@
+{
+  "task_name": "contacts_create_avery_walker",
+  "difficulty": "atomic",
+  "app": [
+    "Contacts"
+  ],
+  "category": []
+}

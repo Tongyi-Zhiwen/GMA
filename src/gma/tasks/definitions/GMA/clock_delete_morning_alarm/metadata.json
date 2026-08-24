@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_delete_morning_alarm",
+  "difficulty": "atomic",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

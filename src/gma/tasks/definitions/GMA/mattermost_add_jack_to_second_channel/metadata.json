@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_add_jack_to_second_channel",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

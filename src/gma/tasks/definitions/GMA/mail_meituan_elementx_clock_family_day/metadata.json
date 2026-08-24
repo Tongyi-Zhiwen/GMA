@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_meituan_elementx_clock_family_day",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "Meituan",
+    "ElementX",
+    "Clock"
+  ],
+  "category": []
+}

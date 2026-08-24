@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_elementx_kiyomizu_invitation",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "ElementX",
+    "Files"
+  ],
+  "category": []
+}

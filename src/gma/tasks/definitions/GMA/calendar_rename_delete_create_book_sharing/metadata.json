@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_rename_delete_create_book_sharing",
+  "difficulty": "compositional",
+  "app": [
+    "Calendar"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

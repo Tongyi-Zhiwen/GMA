@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_three_store_favorites_message",
+  "difficulty": "cross-application",
+  "app": [
+    "Meituan",
+    "Messages"
+  ],
+  "category": []
+}

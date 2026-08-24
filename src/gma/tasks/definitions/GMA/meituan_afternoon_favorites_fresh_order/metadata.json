@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_afternoon_favorites_fresh_order",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

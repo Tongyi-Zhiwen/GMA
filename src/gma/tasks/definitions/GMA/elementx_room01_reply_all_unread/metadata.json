@@ -1,0 +1,10 @@
+{
+  "task_name": "elementx_room01_reply_all_unread",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

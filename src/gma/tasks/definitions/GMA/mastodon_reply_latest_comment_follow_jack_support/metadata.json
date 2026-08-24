@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_reply_latest_comment_follow_jack_support",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

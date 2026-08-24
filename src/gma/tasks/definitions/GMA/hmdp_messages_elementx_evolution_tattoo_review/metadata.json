@@ -1,0 +1,13 @@
+{
+  "task_name": "hmdp_messages_elementx_evolution_tattoo_review",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "Messages",
+    "Contacts",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

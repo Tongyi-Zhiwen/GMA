@@ -1,0 +1,8 @@
+{
+  "task_name": "mastodon_edit_latest_choose_post",
+  "difficulty": "atomic",
+  "app": [
+    "Mastodon"
+  ],
+  "category": []
+}

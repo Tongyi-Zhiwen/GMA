@@ -1,0 +1,3 @@
+Incident summary: Search indexing delay.
+Client-success recipient: search-support@example.com
+This is a different incident and should not drive the mobile checkout timeout follow-up.

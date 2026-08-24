@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_elementx_austin_hotel_review",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

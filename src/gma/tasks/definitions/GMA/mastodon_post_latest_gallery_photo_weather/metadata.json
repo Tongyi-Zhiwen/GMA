@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_post_latest_gallery_photo_weather",
+  "difficulty": "atomic",
+  "app": [
+    "Mastodon",
+    "Gallery"
+  ],
+  "category": []
+}

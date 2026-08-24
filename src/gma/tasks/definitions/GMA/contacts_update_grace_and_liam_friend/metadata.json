@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_update_grace_and_liam_friend",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

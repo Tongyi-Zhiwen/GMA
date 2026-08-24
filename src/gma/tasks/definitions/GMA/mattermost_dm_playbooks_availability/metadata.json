@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_dm_playbooks_availability",
+  "difficulty": "compositional",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

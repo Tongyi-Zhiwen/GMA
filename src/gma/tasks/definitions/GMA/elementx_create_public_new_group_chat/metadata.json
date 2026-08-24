@@ -1,0 +1,8 @@
+{
+  "task_name": "elementx_create_public_new_group_chat",
+  "difficulty": "atomic",
+  "app": [
+    "ElementX"
+  ],
+  "category": []
+}

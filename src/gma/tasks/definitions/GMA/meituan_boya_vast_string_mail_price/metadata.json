@@ -1,0 +1,12 @@
+{
+  "task_name": "meituan_boya_vast_string_mail_price",
+  "difficulty": "cross-application",
+  "app": [
+    "Meituan",
+    "Mail"
+  ],
+  "category": [
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

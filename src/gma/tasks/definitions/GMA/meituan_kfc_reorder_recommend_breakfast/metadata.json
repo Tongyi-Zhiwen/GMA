@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_kfc_reorder_recommend_breakfast",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

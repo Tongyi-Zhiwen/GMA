@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_rename_disable_evening_daily",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

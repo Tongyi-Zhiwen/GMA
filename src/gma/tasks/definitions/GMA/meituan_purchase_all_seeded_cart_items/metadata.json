@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_purchase_all_seeded_cart_items",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_update_three_alarm_repeats_vibration",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

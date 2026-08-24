@@ -1,0 +1,15 @@
+{
+  "task_name": "incident_followup_thread_attachment_deadline",
+  "difficulty": "realistic",
+  "app": [
+    "Mattermost",
+    "Files",
+    "Mail",
+    "Calendar",
+    "ElementX",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

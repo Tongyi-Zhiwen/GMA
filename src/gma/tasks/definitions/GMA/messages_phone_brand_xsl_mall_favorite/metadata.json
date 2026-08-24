@@ -1,0 +1,12 @@
+{
+  "task_name": "messages_phone_brand_xsl_mall_favorite",
+  "difficulty": "cross-application",
+  "app": [
+    "Messages",
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

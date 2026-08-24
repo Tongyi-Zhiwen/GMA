@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_mastodon_meituan_comment_order",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "Mastodon",
+    "Meituan"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

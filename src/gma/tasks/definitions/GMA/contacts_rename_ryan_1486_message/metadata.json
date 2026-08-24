@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_rename_ryan_1486_message",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts",
+    "Messages"
+  ],
+  "category": []
+}

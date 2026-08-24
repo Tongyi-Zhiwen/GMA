@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_fast_food_two_store_orders_total",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

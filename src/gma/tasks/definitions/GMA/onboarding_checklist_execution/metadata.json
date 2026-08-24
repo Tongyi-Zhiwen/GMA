@@ -1,0 +1,15 @@
+{
+  "task_name": "onboarding_checklist_execution",
+  "difficulty": "realistic",
+  "app": [
+    "Mattermost",
+    "Mail",
+    "Files",
+    "Calendar",
+    "ElementX",
+    "Contacts"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "messages_delete_old_pickup_thread",
+  "difficulty": "atomic",
+  "app": [
+    "Messages"
+  ],
+  "category": []
+}

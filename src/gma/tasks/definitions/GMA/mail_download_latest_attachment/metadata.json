@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_download_latest_attachment",
+  "difficulty": "atomic",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

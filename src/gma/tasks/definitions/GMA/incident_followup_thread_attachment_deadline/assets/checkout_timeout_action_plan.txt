@@ -1,0 +1,7 @@
+Incident summary: Mobile checkout timeout caused intermittent payment handoff failures.
+Incident title: Mobile checkout timeout
+Client-success recipient: client-success@example.com
+Required email subject: INC-2419 checkout timeout action plan
+Required body note: Please review the attached action plan before the internal review.
+ElementX room criteria: choose the group room with topic client incident action-plan handoff and setup note Use this room for client-success action plan sent notices after review time is scheduled.
+Follow-up owner: Harper Lewis

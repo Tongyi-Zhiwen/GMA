@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_confirm_receipt_samsung_tv_order",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

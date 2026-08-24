@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_elementx_birthday_dinner_poll",
+  "difficulty": "cross-application",
+  "app": [
+    "Calendar",
+    "ElementX",
+    "Files"
+  ],
+  "category": []
+}

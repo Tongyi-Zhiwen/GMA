@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_weekday_repeat_seven_alarm",
+  "difficulty": "atomic",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

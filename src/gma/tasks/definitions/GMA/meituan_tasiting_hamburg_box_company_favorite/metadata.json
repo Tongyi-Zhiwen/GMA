@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_tasiting_hamburg_box_company_favorite",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

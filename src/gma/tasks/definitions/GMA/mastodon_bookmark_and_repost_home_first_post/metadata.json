@@ -1,0 +1,8 @@
+{
+  "task_name": "mastodon_bookmark_and_repost_home_first_post",
+  "difficulty": "atomic",
+  "app": [
+    "Mastodon"
+  ],
+  "category": []
+}

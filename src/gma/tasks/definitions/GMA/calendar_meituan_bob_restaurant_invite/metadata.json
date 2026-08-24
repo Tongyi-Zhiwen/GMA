@@ -1,0 +1,13 @@
+{
+  "task_name": "calendar_meituan_bob_restaurant_invite",
+  "difficulty": "cross-application",
+  "app": [
+    "Calendar",
+    "Meituan",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

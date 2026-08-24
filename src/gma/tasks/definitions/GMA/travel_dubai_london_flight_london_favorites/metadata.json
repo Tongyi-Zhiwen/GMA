@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_dubai_london_flight_london_favorites",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_calendar_amsterdam_business_trip",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "Calendar"
+  ],
+  "category": []
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_reply_second_download_third_attachment",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

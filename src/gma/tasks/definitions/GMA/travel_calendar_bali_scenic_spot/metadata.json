@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_calendar_bali_scenic_spot",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "Calendar"
+  ],
+  "category": []
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "mattermost_dm_first_contact_with_channel_mention",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost"
+  ],
+  "category": []
+}

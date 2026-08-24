@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_send_work_note_with_attachment",
+  "difficulty": "atomic",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

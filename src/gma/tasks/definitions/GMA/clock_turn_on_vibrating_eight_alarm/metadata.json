@@ -1,0 +1,8 @@
+{
+  "task_name": "clock_turn_on_vibrating_eight_alarm",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": []
+}

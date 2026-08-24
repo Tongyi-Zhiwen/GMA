@@ -1,0 +1,9 @@
+{
+  "task_name": "hmdp_create_jims_south_st_food_note",
+  "difficulty": "atomic",
+  "app": [
+    "HMDP",
+    "Gallery"
+  ],
+  "category": []
+}

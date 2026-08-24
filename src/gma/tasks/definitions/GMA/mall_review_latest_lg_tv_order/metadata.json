@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_review_latest_lg_tv_order",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

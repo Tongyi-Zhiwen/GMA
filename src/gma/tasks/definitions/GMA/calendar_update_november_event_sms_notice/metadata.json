@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_update_november_event_sms_notice",
+  "difficulty": "compositional",
+  "app": [
+    "Calendar",
+    "Messages"
+  ],
+  "category": []
+}

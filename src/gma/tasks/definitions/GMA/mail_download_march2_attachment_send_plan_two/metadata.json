@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_download_march2_attachment_send_plan_two",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

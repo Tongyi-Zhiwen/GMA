@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_update_brooklyn_address_to_queens",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

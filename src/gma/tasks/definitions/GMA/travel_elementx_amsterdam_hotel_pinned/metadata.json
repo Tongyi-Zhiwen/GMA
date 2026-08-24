@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_elementx_amsterdam_hotel_pinned",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": []
+}

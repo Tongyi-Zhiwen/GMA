@@ -1,0 +1,8 @@
+{
+  "task_name": "mastodon_reply_to_latest_comment_on_recent_post",
+  "difficulty": "atomic",
+  "app": [
+    "Mastodon"
+  ],
+  "category": []
+}

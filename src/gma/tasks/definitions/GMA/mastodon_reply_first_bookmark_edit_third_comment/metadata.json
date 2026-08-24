@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_reply_first_bookmark_edit_third_comment",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Conditional Tasks"
+  ]
+}

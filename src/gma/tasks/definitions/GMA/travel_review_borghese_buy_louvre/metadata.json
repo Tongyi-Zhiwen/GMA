@@ -1,0 +1,10 @@
+{
+  "task_name": "travel_review_borghese_buy_louvre",
+  "difficulty": "compositional",
+  "app": [
+    "Travel"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

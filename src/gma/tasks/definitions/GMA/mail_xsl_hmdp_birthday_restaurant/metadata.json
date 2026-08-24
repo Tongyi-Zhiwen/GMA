@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_xsl_hmdp_birthday_restaurant",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "HMDP"
+  ],
+  "category": []
+}

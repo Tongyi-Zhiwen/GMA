@@ -1,0 +1,9 @@
+{
+  "task_name": "meituan_kfc_order_elementx_group_summary",
+  "difficulty": "cross-application",
+  "app": [
+    "Meituan",
+    "ElementX"
+  ],
+  "category": []
+}

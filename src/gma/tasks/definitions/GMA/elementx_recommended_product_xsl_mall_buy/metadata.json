@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_recommended_product_xsl_mall_buy",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "XiaoShiLiu",
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

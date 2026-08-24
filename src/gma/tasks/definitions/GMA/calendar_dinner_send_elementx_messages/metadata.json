@@ -1,0 +1,12 @@
+{
+  "task_name": "calendar_dinner_send_elementx_messages",
+  "difficulty": "cross-application",
+  "app": [
+    "Calendar",
+    "ElementX",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

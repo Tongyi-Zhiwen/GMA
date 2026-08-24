@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_upload_tasks_file_to_first_channel",
+  "difficulty": "atomic",
+  "app": [
+    "Mattermost",
+    "Files"
+  ],
+  "category": []
+}

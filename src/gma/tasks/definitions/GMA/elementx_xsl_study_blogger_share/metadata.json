@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_xsl_study_blogger_share",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "XiaoShiLiu",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

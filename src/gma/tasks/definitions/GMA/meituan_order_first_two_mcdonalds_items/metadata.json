@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_order_first_two_mcdonalds_items",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

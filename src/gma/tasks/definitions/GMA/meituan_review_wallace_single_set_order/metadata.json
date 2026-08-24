@@ -1,0 +1,8 @@
+{
+  "task_name": "meituan_review_wallace_single_set_order",
+  "difficulty": "atomic",
+  "app": [
+    "Meituan"
+  ],
+  "category": []
+}

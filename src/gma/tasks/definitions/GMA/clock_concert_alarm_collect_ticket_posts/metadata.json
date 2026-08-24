@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_concert_alarm_collect_ticket_posts",
+  "difficulty": "compositional",
+  "app": [
+    "Clock",
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

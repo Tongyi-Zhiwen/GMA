@@ -1,0 +1,13 @@
+{
+  "task_name": "mastodon_zongzi_poll_result_message_taylor",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon",
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Conditional Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

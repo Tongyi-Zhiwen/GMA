@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_tiktok_code_to_elementx_dm",
+  "difficulty": "compositional",
+  "app": [
+    "Messages",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

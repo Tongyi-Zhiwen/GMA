@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_add_default_manhattan_address",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

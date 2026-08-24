@@ -1,0 +1,8 @@
+{
+  "task_name": "xiaoshiliu_rename_latest_post_happy",
+  "difficulty": "atomic",
+  "app": [
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

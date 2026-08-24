@@ -1,0 +1,12 @@
+{
+  "task_name": "xiaoshiliu_food_to_meituan_order_message",
+  "difficulty": "cross-application",
+  "app": [
+    "XiaoShiLiu",
+    "Meituan",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

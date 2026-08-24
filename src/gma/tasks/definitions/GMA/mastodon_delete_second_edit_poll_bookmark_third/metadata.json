@@ -1,0 +1,10 @@
+{
+  "task_name": "mastodon_delete_second_edit_poll_bookmark_third",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

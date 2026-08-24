@@ -1,0 +1,13 @@
+{
+  "task_name": "mail_xsl_hmdp_clock_gathering_plan",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "XiaoShiLiu",
+    "HMDP",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

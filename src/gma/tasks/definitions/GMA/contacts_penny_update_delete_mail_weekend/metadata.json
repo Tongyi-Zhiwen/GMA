@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_penny_update_delete_mail_weekend",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts",
+    "Mail"
+  ],
+  "category": []
+}

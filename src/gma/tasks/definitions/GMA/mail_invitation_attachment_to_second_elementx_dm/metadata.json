@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_invitation_attachment_to_second_elementx_dm",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

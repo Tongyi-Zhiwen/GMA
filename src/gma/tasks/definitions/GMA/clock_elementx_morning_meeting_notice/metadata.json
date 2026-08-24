@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_elementx_morning_meeting_notice",
+  "difficulty": "compositional",
+  "app": [
+    "Clock",
+    "ElementX"
+  ],
+  "category": []
+}

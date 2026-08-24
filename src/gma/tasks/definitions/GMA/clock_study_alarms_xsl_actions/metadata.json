@@ -1,0 +1,9 @@
+{
+  "task_name": "clock_study_alarms_xsl_actions",
+  "difficulty": "cross-application",
+  "app": [
+    "Clock",
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

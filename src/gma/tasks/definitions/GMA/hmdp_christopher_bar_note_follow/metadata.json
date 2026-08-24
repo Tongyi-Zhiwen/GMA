@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_christopher_bar_note_follow",
+  "difficulty": "compositional",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

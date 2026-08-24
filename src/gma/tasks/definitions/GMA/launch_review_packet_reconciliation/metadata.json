@@ -1,0 +1,15 @@
+{
+  "task_name": "launch_review_packet_reconciliation",
+  "difficulty": "realistic",
+  "app": [
+    "Mail",
+    "Files",
+    "Mattermost",
+    "ElementX",
+    "Calendar",
+    "Clock"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

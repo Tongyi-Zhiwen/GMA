@@ -1,0 +1,9 @@
+{
+  "task_name": "mail_reply_top_three_with_approval_attachment",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": []
+}

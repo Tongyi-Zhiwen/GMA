@@ -1,0 +1,12 @@
+{
+  "task_name": "hmdp_meituan_elementx_bookmarked_store_jishengke_poll",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "Meituan",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

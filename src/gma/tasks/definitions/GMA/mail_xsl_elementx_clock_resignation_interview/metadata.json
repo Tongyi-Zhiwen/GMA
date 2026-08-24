@@ -1,0 +1,12 @@
+{
+  "task_name": "mail_xsl_elementx_clock_resignation_interview",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "ElementX",
+    "Clock"
+  ],
+  "category": []
+}

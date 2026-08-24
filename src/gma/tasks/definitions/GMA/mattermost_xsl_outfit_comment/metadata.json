@@ -1,0 +1,9 @@
+{
+  "task_name": "mattermost_xsl_outfit_comment",
+  "difficulty": "cross-application",
+  "app": [
+    "Mattermost",
+    "XiaoShiLiu"
+  ],
+  "category": []
+}

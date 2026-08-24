@@ -1,0 +1,13 @@
+{
+  "task_name": "mail_files_xsl_elementx_work_attachment",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "Files",
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

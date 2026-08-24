@@ -1,0 +1,8 @@
+{
+  "task_name": "contacts_add_work_email_for_daniel_reed",
+  "difficulty": "atomic",
+  "app": [
+    "Contacts"
+  ],
+  "category": []
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "contacts_update_mason_delete_liam_email_message",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts",
+    "Messages"
+  ],
+  "category": []
+}

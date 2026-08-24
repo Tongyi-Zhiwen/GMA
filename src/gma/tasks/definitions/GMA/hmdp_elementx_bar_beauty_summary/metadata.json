@@ -1,0 +1,11 @@
+{
+  "task_name": "hmdp_elementx_bar_beauty_summary",
+  "difficulty": "cross-application",
+  "app": [
+    "HMDP",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "task_name": "client_lunch_comparison_report",
+  "difficulty": "realistic",
+  "app": [
+    "HMDP",
+    "Mail",
+    "ElementX",
+    "Calendar"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

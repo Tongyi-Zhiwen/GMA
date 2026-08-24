@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_jason_profiles_royal_thai_price",
+  "difficulty": "compositional",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

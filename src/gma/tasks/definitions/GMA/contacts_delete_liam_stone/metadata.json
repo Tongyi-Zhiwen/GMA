@@ -1,0 +1,8 @@
+{
+  "task_name": "contacts_delete_liam_stone",
+  "difficulty": "atomic",
+  "app": [
+    "Contacts"
+  ],
+  "category": []
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "calendar_mail_wedding_event_notice",
+  "difficulty": "compositional",
+  "app": [
+    "Calendar",
+    "Mail"
+  ],
+  "category": []
+}

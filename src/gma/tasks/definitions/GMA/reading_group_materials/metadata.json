@@ -1,0 +1,14 @@
+{
+  "task_name": "reading_group_materials",
+  "difficulty": "realistic",
+  "app": [
+    "Mail",
+    "Files",
+    "ElementX",
+    "Calendar",
+    "Tempus"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

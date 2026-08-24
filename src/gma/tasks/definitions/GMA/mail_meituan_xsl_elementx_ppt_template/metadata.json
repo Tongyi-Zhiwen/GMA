@@ -1,0 +1,13 @@
+{
+  "task_name": "mail_meituan_xsl_elementx_ppt_template",
+  "difficulty": "cross-application",
+  "app": [
+    "Mail",
+    "Meituan",
+    "XiaoShiLiu",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

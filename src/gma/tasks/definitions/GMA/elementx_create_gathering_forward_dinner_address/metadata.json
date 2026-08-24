@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_create_gathering_forward_dinner_address",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "mastodon_meituan_wrap_poll_order",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon",
+    "Meituan"
+  ],
+  "category": []
+}

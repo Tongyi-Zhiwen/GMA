@@ -1,0 +1,10 @@
+{
+  "task_name": "mail_protest_letter_meituan_mcdonalds_order",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files",
+    "Meituan"
+  ],
+  "category": []
+}

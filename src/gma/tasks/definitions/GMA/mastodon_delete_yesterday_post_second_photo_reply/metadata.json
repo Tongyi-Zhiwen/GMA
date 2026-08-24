@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_delete_yesterday_post_second_photo_reply",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon",
+    "Gallery"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

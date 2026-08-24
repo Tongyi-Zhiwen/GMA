@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_floor_plan_carter_parker_condition",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "mail_reply_to_latest_inbox_update",
+  "difficulty": "atomic",
+  "app": [
+    "Mail"
+  ],
+  "category": []
+}

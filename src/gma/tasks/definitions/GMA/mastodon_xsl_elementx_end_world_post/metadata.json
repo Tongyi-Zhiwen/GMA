@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_xsl_elementx_end_world_post",
+  "difficulty": "cross-application",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "Gallery",
+    "ElementX"
+  ],
+  "category": []
+}

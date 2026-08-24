@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_mail_tokyo_dubai_one_way",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "Mail"
+  ],
+  "category": []
+}

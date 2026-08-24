@@ -1,0 +1,11 @@
+{
+  "task_name": "contacts_update_two_alarm_greg",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

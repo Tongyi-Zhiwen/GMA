@@ -1,0 +1,12 @@
+{
+  "task_name": "elementx_calendar_xiaoshiliu_crazy_thursday",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "Calendar",
+    "XiaoShiLiu"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

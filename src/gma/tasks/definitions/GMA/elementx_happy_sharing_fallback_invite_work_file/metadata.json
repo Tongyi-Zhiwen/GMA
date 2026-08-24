@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_happy_sharing_fallback_invite_work_file",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX",
+    "Files"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

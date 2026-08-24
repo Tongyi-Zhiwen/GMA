@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_xsl_messages_scenic_review_post",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "XiaoShiLiu",
+    "Gallery",
+    "Messages"
+  ],
+  "category": []
+}

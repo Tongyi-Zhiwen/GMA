@@ -1,0 +1,9 @@
+{
+  "task_name": "travel_elementx_popular_destination_tickets",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "ElementX"
+  ],
+  "category": []
+}

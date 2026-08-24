@@ -1,0 +1,14 @@
+{
+  "task_name": "social_moderation_cleanup",
+  "difficulty": "realistic",
+  "app": [
+    "Mastodon",
+    "XiaoShiLiu",
+    "ElementX",
+    "Messages",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

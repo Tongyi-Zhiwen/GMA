@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_latest_attachment_reply_first_with_file",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Files"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

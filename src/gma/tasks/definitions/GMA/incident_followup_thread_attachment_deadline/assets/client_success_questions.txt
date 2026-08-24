@@ -1,0 +1,4 @@
+Client Success question list for the invoice-portal FAQ refresh.
+Question: which support article needs screenshots?
+Question: who owns the billing contact wording?
+This question list is unrelated to the mobile checkout incident follow-up.

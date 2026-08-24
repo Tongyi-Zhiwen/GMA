@@ -1,0 +1,11 @@
+{
+  "task_name": "messages_read_reply_codes_delete_threads",
+  "difficulty": "compositional",
+  "app": [
+    "Messages"
+  ],
+  "category": [
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

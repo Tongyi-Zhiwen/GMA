@@ -1,0 +1,10 @@
+{
+  "task_name": "hmdp_review_second_food_price_cafe_beignet",
+  "difficulty": "atomic",
+  "app": [
+    "HMDP"
+  ],
+  "category": [
+    "Selection / Optimization Tasks"
+  ]
+}

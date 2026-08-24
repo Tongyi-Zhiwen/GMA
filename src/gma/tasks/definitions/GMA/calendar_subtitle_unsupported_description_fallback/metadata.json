@@ -1,0 +1,10 @@
+{
+  "task_name": "calendar_subtitle_unsupported_description_fallback",
+  "difficulty": "compositional",
+  "app": [
+    "Calendar"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

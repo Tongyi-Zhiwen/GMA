@@ -1,0 +1,11 @@
+{
+  "task_name": "mastodon_demo_follow_comment_mall_cart",
+  "difficulty": "compositional",
+  "app": [
+    "Mastodon",
+    "Mall"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

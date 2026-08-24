@@ -1,0 +1,10 @@
+{
+  "task_name": "clock_conditional_tomorrow_wednesday_alarm",
+  "difficulty": "compositional",
+  "app": [
+    "Clock"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

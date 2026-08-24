@@ -1,0 +1,12 @@
+{
+  "task_name": "travel_mail_elementx_thames_hotel_review",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "Mail",
+    "ElementX"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

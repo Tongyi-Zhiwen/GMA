@@ -1,0 +1,10 @@
+{
+  "task_name": "mall_ask_user_buy_iphone_17_pro",
+  "difficulty": "compositional",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

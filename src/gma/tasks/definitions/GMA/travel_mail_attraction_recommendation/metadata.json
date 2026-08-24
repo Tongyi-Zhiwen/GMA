@@ -1,0 +1,11 @@
+{
+  "task_name": "travel_mail_attraction_recommendation",
+  "difficulty": "cross-application",
+  "app": [
+    "Travel",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

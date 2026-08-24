@@ -1,0 +1,16 @@
+{
+  "task_name": "team_equipment_order",
+  "difficulty": "realistic",
+  "app": [
+    "ElementX",
+    "Mall",
+    "Mail",
+    "Mattermost",
+    "Calendar"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

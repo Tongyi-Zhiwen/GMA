@@ -1,0 +1,10 @@
+{
+  "task_name": "mall_phone_categories_cable_price_order",
+  "difficulty": "compositional",
+  "app": [
+    "Mall"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

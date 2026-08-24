@@ -1,0 +1,10 @@
+{
+  "task_name": "mattermost_meituan_elementx_fried_chicken_order",
+  "difficulty": "cross-application",
+  "app": [
+    "Mattermost",
+    "Meituan",
+    "ElementX"
+  ],
+  "category": []
+}

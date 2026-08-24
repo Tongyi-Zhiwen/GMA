@@ -1,0 +1,10 @@
+{
+  "task_name": "meituan_nearest_kfc_order_unfavorite",
+  "difficulty": "compositional",
+  "app": [
+    "Meituan"
+  ],
+  "category": [
+    "Conditional Tasks"
+  ]
+}

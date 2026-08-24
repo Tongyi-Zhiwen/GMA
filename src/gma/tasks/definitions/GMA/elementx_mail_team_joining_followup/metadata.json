@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_mail_team_joining_followup",
+  "difficulty": "cross-application",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

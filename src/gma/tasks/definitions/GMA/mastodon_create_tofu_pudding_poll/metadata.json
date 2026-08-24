@@ -1,0 +1,8 @@
+{
+  "task_name": "mastodon_create_tofu_pudding_poll",
+  "difficulty": "atomic",
+  "app": [
+    "Mastodon"
+  ],
+  "category": []
+}

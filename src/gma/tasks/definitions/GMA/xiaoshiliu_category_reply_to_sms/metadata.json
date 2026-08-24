@@ -1,0 +1,11 @@
+{
+  "task_name": "xiaoshiliu_category_reply_to_sms",
+  "difficulty": "cross-application",
+  "app": [
+    "XiaoShiLiu",
+    "Messages"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}

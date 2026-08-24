@@ -1,0 +1,16 @@
+{
+  "task_name": "trip_reconcile_multi_app",
+  "difficulty": "realistic",
+  "app": [
+    "Mail",
+    "Travel",
+    "Calendar",
+    "ElementX",
+    "Messages",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

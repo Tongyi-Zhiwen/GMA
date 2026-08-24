@@ -1,0 +1,11 @@
+{
+  "task_name": "mail_two_alarm_reminders",
+  "difficulty": "compositional",
+  "app": [
+    "Mail",
+    "Clock"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

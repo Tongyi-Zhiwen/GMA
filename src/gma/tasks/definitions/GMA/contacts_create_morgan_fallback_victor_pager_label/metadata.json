@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_create_morgan_fallback_victor_pager_label",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Invalid-Instruction Tasks"
+  ]
+}

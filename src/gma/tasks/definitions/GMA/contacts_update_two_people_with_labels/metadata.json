@@ -1,0 +1,10 @@
+{
+  "task_name": "contacts_update_two_people_with_labels",
+  "difficulty": "compositional",
+  "app": [
+    "Contacts"
+  ],
+  "category": [
+    "Information-Gathering Tasks"
+  ]
+}

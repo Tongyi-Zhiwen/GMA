@@ -1,0 +1,17 @@
+{
+  "task_name": "family_birthday_bundle",
+  "difficulty": "realistic",
+  "app": [
+    "Contacts",
+    "Calendar",
+    "Mall",
+    "Meituan",
+    "Messages",
+    "Mail"
+  ],
+  "category": [
+    "Information-Gathering Tasks",
+    "Selection / Optimization Tasks",
+    "Multi-Step Workflow Tasks"
+  ]
+}

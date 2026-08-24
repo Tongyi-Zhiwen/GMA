@@ -1,0 +1,8 @@
+{
+  "task_name": "mall_buy_huawei_mate80_pro_second_address",
+  "difficulty": "atomic",
+  "app": [
+    "Mall"
+  ],
+  "category": []
+}

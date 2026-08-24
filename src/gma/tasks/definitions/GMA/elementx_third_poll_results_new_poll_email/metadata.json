@@ -1,0 +1,11 @@
+{
+  "task_name": "elementx_third_poll_results_new_poll_email",
+  "difficulty": "compositional",
+  "app": [
+    "ElementX",
+    "Mail"
+  ],
+  "category": [
+    "Multi-Step Workflow Tasks"
+  ]
+}
